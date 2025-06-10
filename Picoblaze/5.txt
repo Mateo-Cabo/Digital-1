@@ -1,0 +1,12 @@
+address 0
+
+load s1, 3
+load s2, 4
+
+compare s1, s2 ;devuelve z = 1 si son iguales
+
+jump z, aux_0 ;salta cuando z = 1
+load s3, 0
+jump nz, 008
+
+aux_0: load s3, 1

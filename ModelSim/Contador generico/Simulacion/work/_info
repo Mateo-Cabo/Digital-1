@@ -1,0 +1,298 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/mateo/OneDrive/Desktop/Facu/Digital 1/ModelSim/Sum1b/Simulacion
+Econt_gen
+Z0 w1748043287
+Z1 dC:/Users/mateo/OneDrive/Desktop/Facu/Digital 1/ModelSim/Contador generico/Simulacion
+Z2 8C:/Users/mateo/OneDrive/Desktop/Facu/Digital 1/ModelSim/Contador generico/Fuentes/cont_gen.vhdl
+Z3 FC:/Users/mateo/OneDrive/Desktop/Facu/Digital 1/ModelSim/Contador generico/Fuentes/cont_gen.vhdl
+l0
+L1
+VRKX4U1lE[J>B]P[l;Si=I3
+!s100 8I8JJdn9AU5<AWm@>I]cz3
+Z4 OV;C;10.5b;63
+32
+Z5 !s110 1748043457
+!i10b 1
+Z6 !s108 1748043457.000000
+Z7 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/mateo/OneDrive/Desktop/Facu/Digital 1/ModelSim/Contador generico/Fuentes/cont_gen.vhdl|
+Z8 !s107 C:/Users/mateo/OneDrive/Desktop/Facu/Digital 1/ModelSim/Contador generico/Fuentes/cont_gen.vhdl|
+!i113 1
+Z9 o-work work -2002 -explicit
+Z10 tExplicit 1 CvgOpt 0
+Acont_gen_arq
+DEx4 work 8 cont_gen 0 22 RKX4U1lE[J>B]P[l;Si=I3
+l26
+L11
+VCRhAokcCiUcbDAB9`5cjB1
+!s100 9UcD4gJ_o9M^<DjU3[R582
+R4
+32
+R5
+!i10b 1
+R6
+R7
+R8
+!i113 1
+R9
+R10
+Econt_gen_tb
+Z11 w1747944756
+R1
+Z12 8C:/Users/mateo/OneDrive/Desktop/Facu/Digital 1/ModelSim/Contador generico/Fuentes/cont_gen_tb.vhdl
+Z13 FC:/Users/mateo/OneDrive/Desktop/Facu/Digital 1/ModelSim/Contador generico/Fuentes/cont_gen_tb.vhdl
+l0
+L1
+VeF4JTH__AOW>naeao8N[i2
+!s100 ?CZ2MIABh^BjK;T2CW:3A3
+R4
+32
+R5
+!i10b 1
+R6
+Z14 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/mateo/OneDrive/Desktop/Facu/Digital 1/ModelSim/Contador generico/Fuentes/cont_gen_tb.vhdl|
+Z15 !s107 C:/Users/mateo/OneDrive/Desktop/Facu/Digital 1/ModelSim/Contador generico/Fuentes/cont_gen_tb.vhdl|
+!i113 1
+R9
+R10
+Acont_gen_tb_arq
+DEx4 work 11 cont_gen_tb 0 22 eF4JTH__AOW>naeao8N[i2
+l24
+L4
+VC[gKGQn81=nQ<WSI>W92E3
+!s100 <YORNUYWEkhAQ3j7n>EWn0
+R4
+32
+R5
+!i10b 1
+R6
+R14
+R15
+!i113 1
+R9
+R10
+Effd
+Z16 w1747780667
+R1
+Z17 8C:/Users/mateo/OneDrive/Desktop/Facu/Digital 1/ModelSim/FFD/Fuentes/ffd.vhdl
+Z18 FC:/Users/mateo/OneDrive/Desktop/Facu/Digital 1/ModelSim/FFD/Fuentes/ffd.vhdl
+l0
+L1
+VgdRRAiJBI2^h5hN_P>U^K0
+!s100 3WRK5_e?fhA>mIRUn3ZoL3
+R4
+32
+R5
+!i10b 1
+R6
+Z19 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/mateo/OneDrive/Desktop/Facu/Digital 1/ModelSim/FFD/Fuentes/ffd.vhdl|
+Z20 !s107 C:/Users/mateo/OneDrive/Desktop/Facu/Digital 1/ModelSim/FFD/Fuentes/ffd.vhdl|
+!i113 1
+R9
+R10
+Affd_arq
+DEx4 work 3 ffd 0 22 gdRRAiJBI2^h5hN_P>U^K0
+l14
+L10
+V;7m<hC;N?YheJLHjD4F;<0
+!s100 XZi0]iXK>]UlhNdn4:QJ]3
+R4
+32
+R5
+!i10b 1
+R6
+R19
+R20
+!i113 1
+R9
+R10
+Emux2b
+Z21 w1747778297
+Z22 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z23 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R1
+Z24 8C:/Users/mateo/OneDrive/Desktop/Facu/Digital 1/ModelSim/Mux2b/Fuentes/mux2b.vhdl
+Z25 FC:/Users/mateo/OneDrive/Desktop/Facu/Digital 1/ModelSim/Mux2b/Fuentes/mux2b.vhdl
+l0
+L4
+Vn_6h=AO@[;f>VOmdLaAJ80
+!s100 AfAX9<]Ki<RW88CI4QXcJ0
+R4
+32
+R5
+!i10b 1
+R6
+Z26 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/mateo/OneDrive/Desktop/Facu/Digital 1/ModelSim/Mux2b/Fuentes/mux2b.vhdl|
+Z27 !s107 C:/Users/mateo/OneDrive/Desktop/Facu/Digital 1/ModelSim/Mux2b/Fuentes/mux2b.vhdl|
+!i113 1
+R9
+R10
+Amux2b_arq
+R22
+R23
+Z28 DEx4 work 5 mux2b 0 22 n_6h=AO@[;f>VOmdLaAJ80
+l17
+L13
+Z29 VhjT1^8@ezJSKzaakz]cY03
+Z30 !s100 hMfDm4_[XW6g_gYZ2zK7;0
+R4
+32
+R5
+!i10b 1
+R6
+R26
+R27
+!i113 1
+R9
+R10
+Esffd
+Z31 w1747861920
+R1
+Z32 8C:/Users/mateo/OneDrive/Desktop/Facu/Digital 1/ModelSim/AFFD/Fuentes/sffd.vhdl
+Z33 FC:/Users/mateo/OneDrive/Desktop/Facu/Digital 1/ModelSim/AFFD/Fuentes/sffd.vhdl
+l0
+L1
+Vb7nWdT9kD2f=Ka0_nlicI1
+!s100 ]z;INk8F@;AVT3RDbWhI^2
+R4
+32
+R5
+!i10b 1
+R6
+Z34 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/mateo/OneDrive/Desktop/Facu/Digital 1/ModelSim/AFFD/Fuentes/sffd.vhdl|
+Z35 !s107 C:/Users/mateo/OneDrive/Desktop/Facu/Digital 1/ModelSim/AFFD/Fuentes/sffd.vhdl|
+!i113 1
+R9
+R10
+Asffd_arq
+DEx4 work 4 sffd 0 22 b7nWdT9kD2f=Ka0_nlicI1
+l36
+L11
+V8=8C`ii?N9m2XfWPlbibC0
+!s100 :ZMP4gN4XBPR_U[a75ab=1
+R4
+32
+R5
+!i10b 1
+R6
+R34
+R35
+!i113 1
+R9
+R10
+Esum1b
+Z36 w1747435557
+R22
+R23
+Z37 dC:/Users/mateo/OneDrive/Desktop/Facu/Digital 1/ModelSim/Sumnb/Simulacion
+Z38 8C:/Users/mateo/OneDrive/Desktop/Facu/Digital 1/ModelSim/Sum1b/Fuentes/sum1b.vhdl
+Z39 FC:/Users/mateo/OneDrive/Desktop/Facu/Digital 1/ModelSim/Sum1b/Fuentes/sum1b.vhdl
+l0
+L4
+VICR>bU7;V`o2dbf@Cg;012
+!s100 kEJ8`GMFI2fnD2Zd8oQZC1
+R4
+32
+Z40 !s110 1747444464
+!i10b 1
+Z41 !s108 1747444464.000000
+Z42 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/mateo/OneDrive/Desktop/Facu/Digital 1/ModelSim/Sum1b/Fuentes/sum1b.vhdl|
+Z43 !s107 C:/Users/mateo/OneDrive/Desktop/Facu/Digital 1/ModelSim/Sum1b/Fuentes/sum1b.vhdl|
+!i113 1
+R9
+R10
+Asum1b_arq
+R22
+R23
+DEx4 work 5 sum1b 0 22 ICR>bU7;V`o2dbf@Cg;012
+l15
+L14
+V:lgC2URS]cHHZjC3dk<Wf3
+!s100 g7O[?m@TU[XamAlhekm>Q3
+R4
+32
+R40
+!i10b 1
+R41
+R42
+R43
+!i113 1
+R9
+R10
+Esumnb
+Z44 w1747443851
+R37
+Z45 8C:/Users/mateo/OneDrive/Desktop/Facu/Digital 1/ModelSim/Sumnb/Fuentes/sumNb.vhdl
+Z46 FC:/Users/mateo/OneDrive/Desktop/Facu/Digital 1/ModelSim/Sumnb/Fuentes/sumNb.vhdl
+l0
+L1
+Vkj_MbihzeUlRE4TaHeD>11
+!s100 T;oLeXJY88AVadbLLj>^Z3
+R4
+32
+R40
+!i10b 1
+R41
+Z47 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/mateo/OneDrive/Desktop/Facu/Digital 1/ModelSim/Sumnb/Fuentes/sumNb.vhdl|
+Z48 !s107 C:/Users/mateo/OneDrive/Desktop/Facu/Digital 1/ModelSim/Sumnb/Fuentes/sumNb.vhdl|
+!i113 1
+R9
+R10
+Asumnb_arq
+DEx4 work 5 sumnb 0 22 kj_MbihzeUlRE4TaHeD>11
+l30
+L14
+Vbf;hE2gY9>A@eSkCHW3U61
+!s100 F;]m`H[FJcd35VKLP`4:[2
+R4
+32
+R40
+!i10b 1
+R41
+R47
+R48
+!i113 1
+R9
+R10
+Esumnb_tb
+Z49 w1747444457
+R37
+Z50 8C:/Users/mateo/OneDrive/Desktop/Facu/Digital 1/ModelSim/Sumnb/Fuentes/sumNb_tb.vhdl
+Z51 FC:/Users/mateo/OneDrive/Desktop/Facu/Digital 1/ModelSim/Sumnb/Fuentes/sumNb_tb.vhdl
+l0
+L1
+V4MzedI0ZmNcFm]1z09n^o2
+!s100 DX=7U2BD1X>IMDSY4?h=>0
+R4
+32
+R40
+!i10b 1
+R41
+Z52 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/mateo/OneDrive/Desktop/Facu/Digital 1/ModelSim/Sumnb/Fuentes/sumNb_tb.vhdl|
+Z53 !s107 C:/Users/mateo/OneDrive/Desktop/Facu/Digital 1/ModelSim/Sumnb/Fuentes/sumNb_tb.vhdl|
+!i113 1
+R9
+R10
+Asumnb_tb_arq
+DEx4 work 8 sumnb_tb 0 22 4MzedI0ZmNcFm]1z09n^o2
+l29
+L4
+V3eVlQVb>_;OfAH0`GM9dE1
+!s100 lg<_`RKcRaRXNZ[RbdmMW1
+R4
+32
+R40
+!i10b 1
+R41
+R52
+R53
+!i113 1
+R9
+R10

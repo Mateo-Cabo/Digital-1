@@ -1,0 +1,6 @@
+address 0;
+
+load s1, 00010000'b
+load s2, 00100000'b
+
+add s1, s2

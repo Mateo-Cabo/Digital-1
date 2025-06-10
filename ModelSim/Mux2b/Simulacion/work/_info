@@ -1,0 +1,84 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/mateo/OneDrive/Desktop/Facu/Digital 1/ModelSim/Sumnb/Simulacion
+Emux2b
+Z0 w1747778297
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z3 dC:/Users/mateo/OneDrive/Desktop/Facu/Digital 1/ModelSim/Mux2b/Simulacion
+Z4 8C:/Users/mateo/OneDrive/Desktop/Facu/Digital 1/ModelSim/Mux2b/Fuentes/mux2b.vhdl
+Z5 FC:/Users/mateo/OneDrive/Desktop/Facu/Digital 1/ModelSim/Mux2b/Fuentes/mux2b.vhdl
+l0
+L4
+Vn_6h=AO@[;f>VOmdLaAJ80
+!s100 AfAX9<]Ki<RW88CI4QXcJ0
+Z6 OV;C;10.5b;63
+32
+Z7 !s110 1747970833
+!i10b 1
+Z8 !s108 1747970833.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/mateo/OneDrive/Desktop/Facu/Digital 1/ModelSim/Mux2b/Fuentes/mux2b.vhdl|
+Z10 !s107 C:/Users/mateo/OneDrive/Desktop/Facu/Digital 1/ModelSim/Mux2b/Fuentes/mux2b.vhdl|
+!i113 1
+Z11 o-work work -2002 -explicit
+Z12 tExplicit 1 CvgOpt 0
+Amux2b_arq
+R1
+R2
+DEx4 work 5 mux2b 0 22 n_6h=AO@[;f>VOmdLaAJ80
+l17
+L13
+VhjT1^8@ezJSKzaakz]cY03
+!s100 hMfDm4_[XW6g_gYZ2zK7;0
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Emux2b_tb
+Z13 w1747778712
+R3
+Z14 8C:/Users/mateo/OneDrive/Desktop/Facu/Digital 1/ModelSim/Mux2b/Fuentes/mux2b_tb.vhdl
+Z15 FC:/Users/mateo/OneDrive/Desktop/Facu/Digital 1/ModelSim/Mux2b/Fuentes/mux2b_tb.vhdl
+l0
+L1
+VLXE;ROh6H1a:LDnmO;DF32
+!s100 SOKGA_Ggm:bC:mC_bI`U00
+R6
+32
+R7
+!i10b 1
+R8
+Z16 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/mateo/OneDrive/Desktop/Facu/Digital 1/ModelSim/Mux2b/Fuentes/mux2b_tb.vhdl|
+Z17 !s107 C:/Users/mateo/OneDrive/Desktop/Facu/Digital 1/ModelSim/Mux2b/Fuentes/mux2b_tb.vhdl|
+!i113 1
+R11
+R12
+Amux2b_tb_arq
+Z18 DEx4 work 8 mux2b_tb 0 22 LXE;ROh6H1a:LDnmO;DF32
+l22
+L4
+Z19 VhVW>cd:c5iM]mSheeA?0X3
+Z20 !s100 ko<?aP^eOaeHcTD4PkLfI3
+R6
+32
+R7
+!i10b 1
+R8
+R16
+R17
+!i113 1
+R11
+R12

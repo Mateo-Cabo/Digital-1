@@ -1,0 +1,88 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/18.1
+Esum1b
+Z0 w1747432043
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z3 dC:/Users/mateo/OneDrive/Desktop/Facu/Digital 1/ModelSim/Sum1b/Simulacion
+Z4 8C:/Users/mateo/OneDrive/Desktop/Facu/Digital 1/ModelSim/Sum1b/Fuentes/sum1b.vhdl
+Z5 FC:/Users/mateo/OneDrive/Desktop/Facu/Digital 1/ModelSim/Sum1b/Fuentes/sum1b.vhdl
+l0
+L4
+VLOKE]3Yl2aEIje]3I9Abk0
+!s100 N`JFYP?:hCmHO3eH:5jmk2
+Z6 OV;C;10.5b;63
+32
+Z7 !s110 1747433237
+!i10b 1
+Z8 !s108 1747433237.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/mateo/OneDrive/Desktop/Facu/Digital 1/ModelSim/Sum1b/Fuentes/sum1b.vhdl|
+Z10 !s107 C:/Users/mateo/OneDrive/Desktop/Facu/Digital 1/ModelSim/Sum1b/Fuentes/sum1b.vhdl|
+!i113 1
+Z11 o-work work -2002 -explicit
+Z12 tExplicit 1 CvgOpt 0
+Asum1b_arq
+R1
+R2
+DEx4 work 5 sum1b 0 22 LOKE]3Yl2aEIje]3I9Abk0
+l15
+L14
+V:lgC2URS]cHHZjC3dk<Wf3
+!s100 g7O[?m@TU[XamAlhekm>Q3
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Esum1b_tb
+Z13 w1747432040
+R1
+R2
+R3
+Z14 8C:/Users/mateo/OneDrive/Desktop/Facu/Digital 1/ModelSim/Sum1b/Fuentes/sum1b_tb.vhdl
+Z15 FC:/Users/mateo/OneDrive/Desktop/Facu/Digital 1/ModelSim/Sum1b/Fuentes/sum1b_tb.vhdl
+l0
+L4
+Vm1JU;JC^LEM@@ABW3m_>02
+!s100 UUzkPlkmHeM2[ice`_j[[1
+R6
+32
+R7
+!i10b 1
+R8
+Z16 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/mateo/OneDrive/Desktop/Facu/Digital 1/ModelSim/Sum1b/Fuentes/sum1b_tb.vhdl|
+Z17 !s107 C:/Users/mateo/OneDrive/Desktop/Facu/Digital 1/ModelSim/Sum1b/Fuentes/sum1b_tb.vhdl|
+!i113 1
+R11
+R12
+Asum1b_tb_arq
+R1
+R2
+DEx4 work 8 sum1b_tb 0 22 m1JU;JC^LEM@@ABW3m_>02
+l26
+L7
+VnlnKR3L`L3HoohS5gBQic1
+!s100 >8RbN5ia2[hz:YWk@Qjmm2
+R6
+32
+R7
+!i10b 1
+R8
+R16
+R17
+!i113 1
+R11
+R12

@@ -1,0 +1,39 @@
+{C:/Users/mateo/OneDrive/Desktop/Facu/Digital 1/ModelSim/Contador de 1/Fuentes/cont_1_tb.vhdl} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/mateo/OneDrive/Desktop/Facu/Digital 1/ModelSim/Contador de 1/Fuentes/cont_1_tb.vhdl}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Compiling entity cont_1_tb
+-- Compiling architecture cont_1_tb_arq of cont_1_tb
+
+} {} {}} {C:/Users/mateo/OneDrive/Desktop/Facu/Digital 1/ModelSim/Repositorio/sffd.vhdl} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/mateo/OneDrive/Desktop/Facu/Digital 1/ModelSim/Repositorio/sffd.vhdl}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Compiling entity sffd
+-- Compiling architecture sffd_arq of sffd
+
+} {} {}} {C:/Users/mateo/OneDrive/Desktop/Facu/Digital 1/ModelSim/Repositorio/ffd.vhdl} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/mateo/OneDrive/Desktop/Facu/Digital 1/ModelSim/Repositorio/ffd.vhdl}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Compiling entity ffd
+-- Compiling architecture ffd_arq of ffd
+
+} {} {}} {C:/Users/mateo/OneDrive/Desktop/Facu/Digital 1/ModelSim/Contador BCD/Fuentes/cont_bcd.vhdl} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/mateo/OneDrive/Desktop/Facu/Digital 1/ModelSim/Contador BCD/Fuentes/cont_bcd.vhdl}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Compiling entity cont_bcd
+-- Compiling architecture cont_bcd_arq of cont_bcd
+
+} {} {}} {C:/Users/mateo/OneDrive/Desktop/Facu/Digital 1/ModelSim/Contador de 1/Fuentes/cont_1.vhdl} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/mateo/OneDrive/Desktop/Facu/Digital 1/ModelSim/Contador de 1/Fuentes/cont_1.vhdl}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Compiling entity cont_1
+-- Compiling architecture cont_1_arq of cont_1
+
+} {} {}} {C:/Users/mateo/OneDrive/Desktop/Facu/Digital 1/ModelSim/Repositorio/mux2b.vhdl} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/mateo/OneDrive/Desktop/Facu/Digital 1/ModelSim/Repositorio/mux2b.vhdl}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity mux2b
+-- Compiling architecture mux2b_arq of mux2b
+
+} {} {}}

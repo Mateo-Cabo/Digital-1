@@ -1,0 +1,7 @@
+{C:/Users/mateo/OneDrive/Desktop/Facu/Digital 1/ModelSim/Contador generico/Fuentes/cont_gen.vhdl} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/mateo/OneDrive/Desktop/Facu/Digital 1/ModelSim/Contador generico/Fuentes/cont_gen.vhdl}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Compiling entity cont_gen
+-- Compiling architecture cont_gen_arq of cont_gen
+
+} {} {}}

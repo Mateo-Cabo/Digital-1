@@ -1,0 +1,15 @@
+{C:/Users/mateo/OneDrive/Desktop/Facu/Digital 1/ModelSim/Mux2b/Fuentes/mux2b_tb.vhdl} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/mateo/OneDrive/Desktop/Facu/Digital 1/ModelSim/Mux2b/Fuentes/mux2b_tb.vhdl}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Compiling entity mux2b_tb
+-- Compiling architecture mux2b_tb_arq of mux2b_tb
+
+} {} {}} {C:/Users/mateo/OneDrive/Desktop/Facu/Digital 1/ModelSim/Mux2b/Fuentes/mux2b.vhdl} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/mateo/OneDrive/Desktop/Facu/Digital 1/ModelSim/Mux2b/Fuentes/mux2b.vhdl}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity mux2b
+-- Compiling architecture mux2b_arq of mux2b
+
+} {} {}}

@@ -1,0 +1,21 @@
+{C:/Users/mateo/OneDrive/Desktop/Facu/Digital 1/ModelSim/Sumnb/Fuentes/sumNb.vhdl} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/mateo/OneDrive/Desktop/Facu/Digital 1/ModelSim/Sumnb/Fuentes/sumNb.vhdl}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Compiling entity sumNb
+-- Compiling architecture sumNb_arq of sumNb
+
+} {} {}} {C:/Users/mateo/OneDrive/Desktop/Facu/Digital 1/ModelSim/Sumnb/Fuentes/sumNb_tb.vhdl} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/mateo/OneDrive/Desktop/Facu/Digital 1/ModelSim/Sumnb/Fuentes/sumNb_tb.vhdl}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Compiling entity sumNb_tb
+-- Compiling architecture sumNb_tb_arq of sumNb_tb
+
+} {} {}} {C:/Users/mateo/OneDrive/Desktop/Facu/Digital 1/ModelSim/Sum1b/Fuentes/sum1b.vhdl} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/mateo/OneDrive/Desktop/Facu/Digital 1/ModelSim/Sum1b/Fuentes/sum1b.vhdl}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity sum1b
+-- Compiling architecture sum1b_arq of sum1b
+
+} {} {}}

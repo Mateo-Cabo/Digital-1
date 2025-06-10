@@ -104,4 +104,72 @@
     <wire from="(530,140)" to="(530,200)"/>
     <wire from="(530,200)" to="(610,200)"/>
   </circuit>
+  <circuit name="tp">
+    <a name="appearance" val="logisim_evolution"/>
+    <a name="circuit" val="tp"/>
+    <a name="circuitnamedboxfixedsize" val="true"/>
+    <a name="simulationFrequency" val="0.25"/>
+    <comp lib="0" loc="(130,360)" name="Pin">
+      <a name="appearance" val="classic"/>
+      <a name="facing" val="south"/>
+      <a name="label" val="ENA"/>
+    </comp>
+    <comp lib="0" loc="(170,360)" name="Pin">
+      <a name="appearance" val="classic"/>
+      <a name="facing" val="south"/>
+      <a name="label" val="D"/>
+    </comp>
+    <comp lib="0" loc="(510,540)" name="Pin">
+      <a name="appearance" val="classic"/>
+      <a name="label" val="CLK"/>
+    </comp>
+    <comp lib="0" loc="(730,500)" name="Pin">
+      <a name="appearance" val="classic"/>
+      <a name="facing" val="west"/>
+      <a name="label" val="SALIDA"/>
+      <a name="output" val="true"/>
+    </comp>
+    <comp lib="0" loc="(90,360)" name="Pin">
+      <a name="appearance" val="classic"/>
+      <a name="facing" val="south"/>
+      <a name="label" val="RST"/>
+    </comp>
+    <comp lib="1" loc="(350,460)" name="AND Gate">
+      <a name="inputs" val="3"/>
+      <a name="negate1" val="true"/>
+      <a name="negate2" val="true"/>
+    </comp>
+    <comp lib="1" loc="(350,540)" name="AND Gate">
+      <a name="inputs" val="3"/>
+      <a name="negate2" val="true"/>
+    </comp>
+    <comp lib="1" loc="(460,500)" name="OR Gate"/>
+    <comp lib="4" loc="(560,490)" name="D Flip-Flop">
+      <a name="appearance" val="logisim_evolution"/>
+    </comp>
+    <wire from="(130,360)" to="(130,480)"/>
+    <wire from="(130,480)" to="(130,520)"/>
+    <wire from="(130,480)" to="(290,480)"/>
+    <wire from="(130,520)" to="(300,520)"/>
+    <wire from="(170,360)" to="(170,540)"/>
+    <wire from="(170,540)" to="(300,540)"/>
+    <wire from="(200,400)" to="(200,440)"/>
+    <wire from="(200,400)" to="(660,400)"/>
+    <wire from="(200,440)" to="(300,440)"/>
+    <wire from="(350,460)" to="(380,460)"/>
+    <wire from="(350,540)" to="(380,540)"/>
+    <wire from="(380,460)" to="(380,480)"/>
+    <wire from="(380,480)" to="(410,480)"/>
+    <wire from="(380,520)" to="(380,540)"/>
+    <wire from="(380,520)" to="(410,520)"/>
+    <wire from="(460,500)" to="(550,500)"/>
+    <wire from="(510,540)" to="(550,540)"/>
+    <wire from="(610,500)" to="(660,500)"/>
+    <wire from="(660,400)" to="(660,500)"/>
+    <wire from="(660,500)" to="(730,500)"/>
+    <wire from="(90,360)" to="(90,460)"/>
+    <wire from="(90,460)" to="(290,460)"/>
+    <wire from="(90,460)" to="(90,560)"/>
+    <wire from="(90,560)" to="(290,560)"/>
+  </circuit>
 </project>

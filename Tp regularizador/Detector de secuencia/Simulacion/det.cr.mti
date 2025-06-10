@@ -1,0 +1,25 @@
+{C:/Users/mateo/OneDrive/Desktop/Facu/Digital 1/ModelSim/Detector de secuencia/Fuentes/det_sec.vhdl} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/mateo/OneDrive/Desktop/Facu/Digital 1/ModelSim/Detector de secuencia/Fuentes/det_sec.vhdl}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Compiling entity det_sec
+-- Compiling architecture det_sec_arq of det_sec
+
+} {} {}} {C:/Users/mateo/OneDrive/Desktop/Facu/Digital 1/ModelSim/Repositorio/ffd.vhdl} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/mateo/OneDrive/Desktop/Facu/Digital 1/ModelSim/Repositorio/ffd.vhdl}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Compiling entity ffd
+-- Compiling architecture ffd_arq of ffd
+
+} {} {}} {C:/Users/mateo/OneDrive/Desktop/Facu/Digital 1/ModelSim/Detector de secuencia/Fuentes/det_sec_tb.vhdl} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/mateo/OneDrive/Desktop/Facu/Digital 1/ModelSim/Detector de secuencia/Fuentes/det_sec_tb.vhdl}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Compiling entity det_sec_tb
+-- Compiling architecture det_sec_tb_arq of det_sec_tb
+
+} {} {}} {C:/Users/mateo/OneDrive/Desktop/Facu/Digital 1/ModelSim/FFD/Fuentes/ffd.vhdl} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/mateo/OneDrive/Desktop/Facu/Digital 1/ModelSim/FFD/Fuentes/ffd.vhdl}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Compiling entity ffd
+-- Compiling architecture ffd_arq of ffd
+
+} {} {}}
